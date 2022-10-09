@@ -1,8 +1,8 @@
 
-### Luiza Campbell Rocha
+<h1>Luiza Campbell Rocha </h2>
 
 <ul>
-<li> Estudando Análise e Desenvilvimento de Sistemas na Unilavras </li>
+<li> Estudando Análise e Desenvolvimento de Sistemas na Unilavras </li>
 <li> Contato: luiza.campbellr@souunilavras.com </li>
 </ul>
 
